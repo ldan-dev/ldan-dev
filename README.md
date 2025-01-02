@@ -68,7 +68,7 @@
 
 - 🌱 I’m currently learning **AI and ML courses**
 
-- 👨‍💻 All of my projects are available at [https://ldan-dev.github.io/portfolio_0/](https://ldan-dev.github.io/portfolio_0/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ldan-dev.github.io/portfolio_0/)
 
 - 📫 How to reach me **ld.avinaneri@ugto.mx**
 
