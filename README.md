@@ -77,9 +77,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
+<!--
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldan-dev&show_icons=true&locale=en&layout=compact" alt="ldan-dev" />
 </p>
+
+-->
 
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ldan-dev&show_icons=true&locale=en" alt="ldan-dev" />
