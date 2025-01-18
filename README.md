@@ -64,7 +64,10 @@ my projects: [Portfolio](https://ldan-dev.github.io/portfolio_0/)
 
 <br clear="both">
 
+
+<!--
 <img src="https://raw.githubusercontent.com/ldan-dev/ldan-dev/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
 
