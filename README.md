@@ -41,7 +41,7 @@
 
 ###
 
-[Portfolio](https://ldan-dev.github.io/portfolio_0/)
+my projects: [Portfolio](https://ldan-dev.github.io/portfolio_0/)
 
 ###
 
