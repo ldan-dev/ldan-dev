@@ -1,9 +1,7 @@
-<h1 align="center">Hello world! 👋</h1>
+<h1 align="center">Hi 👋, I'm ldan</h1>
 <h3 align="center">I'm Leonardo Daniel Aviña Neri, a passionate developer with a strong interest in Artificial Intelligence, Data Analysis, Image Processing, Computer Vision, and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ldan-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
 
 ## 🚀 About Me
 
@@ -91,6 +89,8 @@
 <a href="https://fb.com/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="todo" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
 
 ## 📊 GitHub Statistics
 
