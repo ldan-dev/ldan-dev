@@ -104,7 +104,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/ldan-dev">ldan-dev</a></i>
-</div>
