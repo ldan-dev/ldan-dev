@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ldan</h1>
+<h1 align="center">Hello world! 👋</h1>
 <h3 align="center">I'm Leonardo Daniel Aviña Neri, a passionate developer with a strong interest in Artificial Intelligence, Data Analysis, Image Processing, Computer Vision, and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ldan-dev" /> </p>
@@ -97,8 +97,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ldan-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=ldan-dev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldan-dev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=false" alt="ldan-dev" />
 </div>
