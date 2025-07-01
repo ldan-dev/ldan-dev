@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Dani and I'm a AI engineer from Mexico</h2>
+<h2 align="left">Hi there👋!</h2>
 
 ###
+I'm Leonardo Daniel Aviña Neri, a passionate developer with a strong interest in Artificial Intelligence, Data Analysis, Image Processing, Computer Vision, and Natural Language Processing.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ldan-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
