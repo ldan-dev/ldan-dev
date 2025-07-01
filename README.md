@@ -90,9 +90,9 @@
 <a href="https://stackoverflow.com/users/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="todo" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
-
 ## 📊 GitHub Statistics
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ldan-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -102,5 +102,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldan-dev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=false" alt="ldan-dev" />
 </div>
-
----
