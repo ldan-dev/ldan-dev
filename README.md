@@ -2,7 +2,7 @@
 <h3 align="center">I'm Leonardo Daniel Aviña Neri, a passionate developer with a strong interest in Artificial Intelligence, Data Analysis, Image Processing, Computer Vision, and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ldan-dev" /> </p>
-
+<!-- comment -->
 ## 🚀 About Me
 
 - 🔭 I'm currently working on [a comprehensive Algorithms CheatSheet](https://github.com/ldan-dev/cheatsheets)
