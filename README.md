@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ldan-dev" /> </p>
 <!-- comment -->
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🔭 I'm currently working on [a comprehensive Algorithms CheatSheet](https://github.com/ldan-dev/cheatsheets)
 - 👨‍💻 All of my projects are available at [my portfolio](https://ldan-dev.github.io/portfolio_0/)
