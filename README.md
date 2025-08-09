@@ -2,7 +2,7 @@
 <h1 align="center">Hello world! 👋</h1>
  -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=fcfcfc&center=true&vCenter=true&width=435&lines=Hello+world,+it's+ldan" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=6000&color=fcfcfc&center=true&vCenter=true&width=435&lines=Hello+world,+it's+ldan" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">I'm Leonardo Daniel Aviña Neri, a passionate developer with a strong interest in Artificial Intelligence, Data Analysis, Image Processing, Computer Vision, and Natural Language Processing.</h3>
