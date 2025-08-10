@@ -105,3 +105,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ldan-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=ldan-dev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+
+<!-- NEW STATS -->
+<div align="center">
+
+  <h2 align="center">📊 GitHub Stats</h2>
+  <p>Here's a small peek into my activity. I love learning and building with consistency 🚀</p>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldan-dev&theme=github_dark" alt="ldan's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldan-dev&theme=github_dark" alt="GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldan-dev&theme=github_dark&utcOffset=10" alt="Most Active Time"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ldan-dev&theme=github_dark" alt="Repos by Language"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ldan-dev&theme=github_dark" alt="Most Used Language"/></td>
+    </tr>
+ </table>
+
+</div>
