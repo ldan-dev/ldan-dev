@@ -99,7 +99,7 @@
 </p>
 
 ## 📊 GitHub Statistics
-  <p>Here's a small peek into my activity. I love learning and building with consistency 🚀</p>
+  <p>Here's a small peek into my activity. </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
 
