@@ -98,6 +98,7 @@
 </p>
 
 ## 📊 GitHub Statistics
+  <p>Here's a small peek into my activity. I love learning and building with consistency 🚀</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldan-dev" alt="ldan-dev" /></a> </p>
 
@@ -108,9 +109,7 @@
 
 <!-- NEW STATS -->
 <div align="center">
-
-  <h2 align="center">📊 GitHub Stats</h2>
-  <p>Here's a small peek into my activity. I love learning and building with consistency 🚀</p>
+   <h3> Public Stats </h3> 
 
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -119,7 +118,6 @@
  </table>
 
  <table align="center" width="100%" height="100%" >
-   <h2> Public Stats </h2> 
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldan-dev&theme=github_dark" alt="GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldan-dev&theme=github_dark&utcOffset=10" alt="Most Active Time"/></td>
