@@ -119,6 +119,7 @@
  </table>
 
  <table align="center" width="100%" height="100%" >
+   <h2> Public Stats </h2> 
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldan-dev&theme=github_dark" alt="GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldan-dev&theme=github_dark&utcOffset=10" alt="Most Active Time"/></td>
