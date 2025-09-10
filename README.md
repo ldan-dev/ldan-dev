@@ -97,7 +97,7 @@
 <a href="https://www.youtube.com/@ldan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="todo" height="30" width="40" /></a>
 <a href="https://twitter.com/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="todo" height="30" width="40" /></a>
 <a href="https://fb.com/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/todo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="todo" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ldan-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="todo" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Statistics
